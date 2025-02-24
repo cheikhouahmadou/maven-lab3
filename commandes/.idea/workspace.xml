@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9effd6f-081a-4b48-8413-087a794049cd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/captures/RunApp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/captures/builModuleServices1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/captures/builModulesServices2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/captures/buildApp1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/captures/buildApp2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/captures/buildApp3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/captures/buildModuleWeb1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/captures/buildModuleWeb2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/captures/buildModuleWeb3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/captures/result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/captures/runModuleServices.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/.angular/cache/18.2.14/web/.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/web/.angular/cache/18.2.14/web/.tsbuildinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/.angular/cache/18.2.14/web/vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/.angular/cache/18.2.14/web/vite/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node.exe" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/content/commands/npm-ls.md" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/content/commands/npm-ls.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/content/commands/npm.md" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/content/commands/npm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/content/configuring-npm/npmrc.md" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/content/configuring-npm/npmrc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/content/configuring-npm/package-json.md" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/content/configuring-npm/package-json.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-access.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-access.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-adduser.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-adduser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-audit.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-audit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-bugs.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-bugs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-cache.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-cache.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-ci.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-ci.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-completion.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-completion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-config.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-config.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-dedupe.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-dedupe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-deprecate.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-deprecate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-diff.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-diff.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-dist-tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-dist-tag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-docs.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-docs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-doctor.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-doctor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-exec.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-exec.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-explain.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-explain.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-explore.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-explore.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-find-dupes.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-find-dupes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-fund.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-fund.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-help-search.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-help-search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-help.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-help.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-hook.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-hook.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-init.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-init.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-install-ci-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-install-ci-test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-install-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-install-test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-install.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-install.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-link.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-logout.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-logout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-ls.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-ls.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-org.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-org.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-outdated.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-outdated.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-owner.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-owner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-pack.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-pack.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-ping.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-ping.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-pkg.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-pkg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-prefix.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-prefix.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-prune.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-prune.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-publish.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-publish.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-query.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-query.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-rebuild.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-rebuild.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-repo.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-repo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-restart.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-restart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-root.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-root.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-run-script.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-run-script.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-sbom.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-sbom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-search.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-shrinkwrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-shrinkwrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-star.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-star.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-stars.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-stars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-start.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-start.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-stop.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-stop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-team.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-token.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-token.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-uninstall.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-uninstall.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-unpublish.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-unpublish.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-unstar.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-unstar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-update.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-update.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-version.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-version.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-view.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-whoami.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm-whoami.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npx.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/commands/npx.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/configuring-npm/folders.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/configuring-npm/folders.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/configuring-npm/install.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/configuring-npm/install.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/configuring-npm/npm-global.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/configuring-npm/npm-global.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/configuring-npm/npm-json.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/configuring-npm/npm-json.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/configuring-npm/npm-shrinkwrap-json.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/configuring-npm/npm-shrinkwrap-json.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/configuring-npm/npmrc.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/configuring-npm/npmrc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/configuring-npm/package-json.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/configuring-npm/package-json.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/configuring-npm/package-lock-json.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/configuring-npm/package-lock-json.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/config.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/config.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/dependency-selectors.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/dependency-selectors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/developers.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/developers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/logging.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/logging.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/orgs.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/orgs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/package-spec.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/package-spec.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/registry.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/registry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/removal.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/removal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/scope.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/scope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/scripts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/workspaces.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/docs/output/using-npm/workspaces.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/lib/cli/exit-handler.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/lib/cli/exit-handler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/lib/commands/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/lib/commands/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/lib/commands/publish.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/lib/commands/publish.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/lib/commands/run-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/lib/commands/run-script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-access.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-access.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-adduser.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-adduser.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-audit.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-audit.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-bugs.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-bugs.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-cache.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-cache.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-ci.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-ci.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-completion.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-completion.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-config.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-config.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-dedupe.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-dedupe.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-deprecate.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-deprecate.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-diff.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-diff.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-dist-tag.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-dist-tag.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-docs.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-docs.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-doctor.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-doctor.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-edit.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-edit.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-exec.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-exec.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-explain.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-explain.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-explore.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-explore.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-find-dupes.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-find-dupes.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-fund.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-fund.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-help-search.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-help-search.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-help.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-help.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-hook.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-hook.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-init.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-init.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-install-ci-test.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-install-ci-test.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-install-test.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-install-test.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-install.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-install.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-link.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-link.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-login.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-login.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-logout.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-logout.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-ls.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-ls.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-org.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-org.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-outdated.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-outdated.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-owner.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-owner.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-pack.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-pack.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-ping.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-ping.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-pkg.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-pkg.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-prefix.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-prefix.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-profile.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-profile.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-prune.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-prune.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-publish.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-publish.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-query.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-query.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-rebuild.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-rebuild.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-repo.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-repo.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-restart.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-restart.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-root.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-root.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-run-script.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-run-script.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-sbom.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-sbom.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-search.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-search.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-shrinkwrap.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-shrinkwrap.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-star.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-star.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-stars.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-stars.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-start.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-start.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-stop.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-stop.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-team.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-team.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-test.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-test.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-token.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-token.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-uninstall.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-uninstall.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-unpublish.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-unpublish.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-unstar.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-unstar.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-update.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-update.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-version.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-version.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-view.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-view.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-whoami.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm-whoami.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npm.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npx.1" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man1/npx.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man5/folders.5" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man5/folders.5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man5/install.5" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man5/install.5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man5/npm-global.5" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man5/npm-global.5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man5/npm-json.5" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man5/npm-json.5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man5/npm-shrinkwrap-json.5" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man5/npm-shrinkwrap-json.5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man5/npmrc.5" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man5/npmrc.5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man5/package-json.5" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man5/package-json.5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man5/package-lock-json.5" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man5/package-lock-json.5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/config.7" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/config.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/dependency-selectors.7" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/dependency-selectors.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/developers.7" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/developers.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/logging.7" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/logging.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/orgs.7" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/orgs.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/package-spec.7" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/package-spec.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/registry.7" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/registry.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/removal.7" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/removal.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/scope.7" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/scope.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/scripts.7" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/scripts.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/workspaces.7" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/man/man7/workspaces.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/@npmcli/arborist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/@npmcli/arborist/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/@npmcli/config/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/@npmcli/config/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/cacache/lib/entry-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/cacache/lib/entry-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/cacache/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/cacache/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/debug/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/debug/src/browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/debug/src/browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/foreground-child/dist/commonjs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/foreground-child/dist/commonjs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/foreground-child/dist/esm/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/foreground-child/dist/esm/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/foreground-child/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/foreground-child/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/glob.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/glob.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/glob.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/glob.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/ignore.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/ignore.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/ignore.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/ignore.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/index.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/pattern.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/pattern.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/pattern.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/pattern.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/walker.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/walker.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/walker.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/commonjs/walker.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/esm/glob.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/esm/glob.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/esm/glob.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/esm/glob.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/esm/ignore.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/esm/ignore.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/esm/ignore.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/esm/ignore.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/esm/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/esm/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/esm/pattern.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/esm/pattern.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/esm/pattern.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/esm/pattern.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/esm/walker.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/esm/walker.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/esm/walker.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/dist/esm/walker.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/glob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/jackspeak/dist/commonjs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/jackspeak/dist/commonjs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/jackspeak/dist/esm/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/jackspeak/dist/esm/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/jackspeak/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/jackspeak/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmaccess/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmaccess/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmdiff/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmdiff/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmexec/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmexec/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmexec/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmexec/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmfund/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmfund/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmhook/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmhook/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmorg/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmorg/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmpack/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmpack/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmpublish/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmpublish/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmsearch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmsearch/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmteam/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmteam/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmversion/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/libnpmversion/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/lru-cache/dist/commonjs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/lru-cache/dist/commonjs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/lru-cache/dist/commonjs/index.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/lru-cache/dist/commonjs/index.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/lru-cache/dist/esm/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/lru-cache/dist/esm/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/lru-cache/dist/esm/index.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/lru-cache/dist/esm/index.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/lru-cache/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/lru-cache/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/.release-please-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/.release-please-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/MSVSSettings.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/MSVSSettings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/common_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/common_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/android.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/android.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/compile_commands_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/compile_commands_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/gypsh.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/gypsh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/make.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/make.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/msvs.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/msvs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/ninja.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/ninja.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/ninja_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/ninja_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/input.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/gyp/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/lib/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/lib/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/lib/configure.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/lib/configure.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/lib/find-visualstudio.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/lib/find-visualstudio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/lib/log.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/lib/log.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/node_modules/proc-log/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/node_modules/proc-log/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/node_modules/proc-log/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/node-gyp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/npm-package-arg/lib/npa.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/npm-package-arg/lib/npa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/npm-package-arg/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/npm-package-arg/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/postcss-selector-parser/API.md" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/postcss-selector-parser/API.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/postcss-selector-parser/dist/parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/postcss-selector-parser/dist/parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/postcss-selector-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/postcss-selector-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/semver/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/semver/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/semver/classes/range.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/semver/classes/range.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/semver/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/node_modules/semver/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node/node_modules/npm/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/node/node_modules/npm/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node_modules/@angular/compiler-cli/src/bin/ng_xi18n.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/node_modules/@angular/compiler-cli/src/bin/ngc.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sombregn&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sombregn/pratique_maven3.git&quot;,
+    &quot;accountId&quot;: &quot;7a9c732f-2c45-436b-bcfe-567fb002ee42&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2oOuLYvKcz5FHs6vtZfYS6Dgmbt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Maven.commandes [clean,install].executor": "Run",
+    "Maven.commandes [run].executor": "Run",
+    "Maven.services [clean,install].executor": "Run",
+    "Maven.web [clean,install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mineh/Desktop/mineHas/tp-maven/lab3/commandes/pom.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15429688",
+    "project.structure.side.proportion": "0.2755682",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "D:\\MASTER_II_GL\\JEE\\tp-maven\\lab3\\commandes\\web\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kaba\Documents\Java EE\lab3\commandes\web" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn run" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.isi.maven.services.Main" />
+      <module name="services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.isi.maven.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9effd6f-081a-4b48-8413-087a794049cd" name="Changes" comment="" />
+      <created>1730752889861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730752889861</updated>
+      <workItem from="1730752890913" duration="2732000" />
+      <workItem from="1739209507451" duration="3166000" />
+      <workItem from="1739551318621" duration="2201000" />
+      <workItem from="1740176129361" duration="1406000" />
+      <workItem from="1740182306626" duration="2238000" />
+      <workItem from="1740228070927" duration="55000" />
+      <workItem from="1740233789788" duration="134000" />
+      <workItem from="1740267974117" duration="350000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
